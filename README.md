@@ -16,13 +16,6 @@
 
 ---
 
-## 📊 Competitive Programming  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/mala7623/)  
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mala7623?theme=dark&font=Karma&ext=contest)  
-
----
-
 ## 📌 Featured Projects  
 - [Resume Screening Project](https://github.com/malarnsit/resume-screening-project) *(Python)*  
 - [Recruitment App](https://github.com/malarnsit/recruitment-app) *(JavaScript)*  
